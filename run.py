@@ -11,14 +11,6 @@ How to use:
 
 "python3.7 run.py <Page_id> output.txt <Page_token>"
 
-"Socky 480550808645602"
-
-"Genius page 1963659870547080"
-"python3.7 run.py 1963659870547080 output.txt "
-
-"TVP page 152157788181214"
-"python3.7 run.py 152157788181214 output.txt "
-
 import os
 import csv
 import json
